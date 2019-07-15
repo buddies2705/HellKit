@@ -1,0 +1,17 @@
+{
+  "zosversion": "2.2",
+  "contracts": {
+    "Counter": "Counter",
+    "Hello": "Hello"
+  },
+  "dependencies": {},
+  "name": "zepkit",
+  "version": "1.0.1",
+  "compiler": {
+    "manager": "zos",
+    "solcVersion": "0.5.10",
+    "compilerSettings": {
+      "optimizer": {}
+    }
+  }
+}
